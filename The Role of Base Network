@@ -1,0 +1,8 @@
+
+Base, an Ethereum Layer 2 developed by Coinbase, plays a crucial role in powering Farcaster Mini Apps like FramedL:
+
+Optimized for Onchain Social: Base provides fast, low-cost transactions ideal for social-native apps.
+MiniKit SDK: Base offers the MiniKit, a developer toolkit that simplifies building Mini Apps with wallet abstraction, React hooks, and seamless integration with Farcaster clients. [docs.base.org]
+Cross-Client Compatibility: Apps built with MiniKit work across Farcaster, Base App, and other clients, ensuring consistent behavior and user experience.
+
+FramedL benefits from this infrastructure by enabling frictionless onchain interactions embedded directly in social posts.
