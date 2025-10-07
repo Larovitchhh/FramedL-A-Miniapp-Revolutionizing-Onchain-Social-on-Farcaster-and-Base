@@ -1,0 +1,9 @@
+
+Originally introduced as Frames, these embedded apps were limited to static images and basic interactions. The transition to Mini Apps marked a significant upgrade:
+
+Full Web App Functionality: Developers can now build persistent, interactive apps using standard web technologies (HTML, CSS, JS).
+Ethereum Wallet Integration: Users can perform onchain actions like minting, staking, or voting directly from the feed.
+Context Awareness: Apps can access user identity, wallet data, and cast origins for personalized experiences.
+Persistent State: Unlike Frames v1, Mini Apps retain user progress and can send notifications for re-engagement. [www.bankless.com]
+
+FramedL is built using this new architecture, making it a showcase of what's possible with Farcaster Mini Apps.
